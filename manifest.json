@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Maze - 3D",
+  "description": "Maze:3D",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Maze - 3D",
+  "name": "Maze:3D",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Maze - 3D",
+  "short_name": "Maze:3D",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Maze - 3D",
+      "name": "Maze:3D",
       "url": "",
       "description": ""
     }
